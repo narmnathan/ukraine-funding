@@ -1,0 +1,1006 @@
+ID,Countries,Type of Aid General
+AUH1,Australia,Humanitarian
+AUH2,Australia,Humanitarian
+AUH3,Australia,Humanitarian
+AUH4,Australia,Humanitarian
+AUH5,Australia,Humanitarian
+AUM1,Australia,Military
+AUM2,Australia,Military
+AUM3,Australia,Military
+AUM4,Australia,Military
+AUM5,Australia,Military
+AUM6,Australia,Military
+AUM7,Australia,Military
+AUM8,Australia,Military
+AUM9,Australia,Military
+AUM10,Australia,Military
+AUM10,Australia,Military
+AUM11,Australia,Military
+AUM12,Australia,Military
+AUM12,Australia,Military
+AUM12,Australia,Military
+AUM12,Australia,Military
+AUM12,Australia,Military
+ATH1,Austria,Humanitarian
+ATH2,Austria,Humanitarian
+ATH2,Austria,Humanitarian
+ATH3,Austria,Humanitarian
+ATH4,Austria,Humanitarian
+ATH5,Austria,Humanitarian
+ATH6,Austria,Humanitarian
+ATH7,Austria,Humanitarian
+ATH8,Austria,Humanitarian
+ATH9,Austria,Humanitarian
+ATH10,Austria,Humanitarian
+ATH11,Austria,Humanitarian
+ATH12,Austria,Humanitarian
+ATH13,Austria,Humanitarian
+ATH14,Austria,Humanitarian
+ATM1,Austria,Military
+ATF1,Austria,Financial
+ATF2,Austria,Financial
+ATF3,Austria,Financial
+ATF4,Austria,Financial
+BEH1,Belgium,Humanitarian
+BEH2,Belgium,Humanitarian
+BEH3,Belgium,Humanitarian
+BEH4,Belgium,Humanitarian
+BEH5,Belgium,Humanitarian
+BEH6,Belgium,Humanitarian
+BEH7,Belgium,Humanitarian
+BEH9,Belgium,Humanitarian
+BEH10,Belgium,Humanitarian
+BEH11,Belgium,Humanitarian
+BEH12,Belgium,Humanitarian
+BEH13,Belgium,Humanitarian
+BEM1,Belgium,Military
+BEM2,Belgium,Military
+BEM3,Belgium,Military
+BEM5,Belgium,Military
+BEM7,Belgium,Military
+BEM9,Belgium,Military
+BEM12,Belgium,Military
+BEM13,Belgium,Military
+BEM14,Belgium,Military
+BEF1,Belgium,Financial
+BEF2,Belgium,Financial
+BEF3,Belgium,Financial
+BEF4,Belgium,Financial
+BEF5,Belgium,Financial
+BGH1,Bulgaria,Humanitarian
+BGH2,Bulgaria,Humanitarian
+BGH3,Bulgaria,Humanitarian
+BGM1,Bulgaria,Military
+BGM2,Bulgaria,Military
+BGM3,Bulgaria,Military
+BGM4,Bulgaria,Military
+CAF1,Canada,Financial
+CAF2,Canada,Financial
+CAF3,Canada,Financial
+CAF4,Canada,Financial
+CAF5,Canada,Financial
+CAF6,Canada,Financial
+CAF7,Canada,Financial
+CAF8,Canada,Financial
+CAF9,Canada,Financial
+CAH1,Canada,Humanitarian
+CAH2,Canada,Humanitarian
+CAH3,Canada,Humanitarian
+CAH4,Canada,Humanitarian
+CAH5,Canada,Humanitarian
+CAH6,Canada,Humanitarian
+CAH7,Canada,Humanitarian
+CAH8,Canada,Humanitarian
+CAH9,Canada,Humanitarian
+CAH10,Canada,Humanitarian
+CAH11,Canada,Humanitarian
+CAM1,Canada,Military
+CAM4,Canada,Military
+CAM5,Canada,Military
+CAM6,Canada,Military
+CAM7,Canada,Military
+CAM8,Canada,Military
+CAM9,Canada,Military
+CAM10,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM11,Canada,Military
+CAM12,Canada,Military
+CAM13,Canada,Military
+CAM15,Canada,Military
+CAM16,Canada,Military
+CAM17,Canada,Military
+CAM18,Canada,Military
+CAM19,Canada,Military
+CAM20,Canada,Military
+CAM21,Canada,Military
+CAM22,Canada,Military
+CAM23,Canada,Military
+CAM24,Canada,Military
+CAM25,Canada,Military
+CAM26,Canada,Military
+CNH1,China,Humanitarian
+CNH2,China,Humanitarian
+CNH3,China,Humanitarian
+HRH1,Croatia,Humanitarian
+HRH2,Croatia,Humanitarian
+HRH3,Croatia,Humanitarian
+HRH4,Croatia,Humanitarian
+HRH6,Croatia,Humanitarian
+HRH6,Croatia,Humanitarian
+HRH7,Croatia,Humanitarian
+HRH8,Croatia,Humanitarian
+HRH9,Croatia,Humanitarian
+HRM1,Croatia,Military
+HRM2,Croatia,Military
+HRM3,Croatia,Military
+HRM4,Croatia,Military
+HRM5,Croatia,Military
+HRM7,Croatia,Military
+HRF1,Croatia,Financial
+CYH1,Cyprus,Humanitarian
+CYH2,Cyprus,Humanitarian
+CYH3,Cyprus,Humanitarian
+CYH4,Cyprus,Humanitarian
+CYH5,Cyprus,Humanitarian
+CYM1,Cyprus,Military
+CYF1,Cyprus,Financial
+CZM1,Czech Republic,Military
+CZM2,Czech Republic,Military
+CZM3,Czech Republic,Military
+CZM4,Czech Republic,Military
+CZM5,Czech Republic,Military
+CZM6,Czech Republic,Military
+CZM7,Czech Republic,Military
+CZM8,Czech Republic,Military
+CZM9,Czech Republic,Military
+CZM11,Czech Republic,Military
+CZM12,Czech Republic,Military
+CZM13,Czech Republic,Military
+CZM14,Czech Republic,Military
+CZM15,Czech Republic,Military
+CZM16,Czech Republic,Military
+CZM17,Czech Republic,Military
+CZM18,Czech Republic,Military
+CZM18,Czech Republic,Military
+CZM19,Czech Republic,Military
+CZM20,Czech Republic,Military
+CZM21,Czech Republic,Military
+CZM22,Czech Republic,Military
+CZM23,Czech Republic,Military
+CZM24,Czech Republic,Military
+CZM25,Czech Republic,Military
+CZM26,Czech Republic,Military
+CZM27,Czech Republic,Military
+CZM28,Czech Republic,Military
+CZM30,Czech Republic,Military
+CZM31,Czech Republic,Military
+CZM32,Czech Republic,Military
+CZM33,Czech Republic,Military
+CZM34,Czech Republic,Military
+CZM35,Czech Republic,Military
+CZM36,Czech Republic,Military
+CZH1,Czech Republic,Humanitarian
+CZH2,Czech Republic,Humanitarian
+CZH3,Czech Republic,Humanitarian
+CZH4,Czech Republic,Humanitarian
+CZH5,Czech Republic,Humanitarian
+CZH6,Czech Republic,Humanitarian
+CZH7,Czech Republic,Humanitarian
+CZH8,Czech Republic,Humanitarian
+CZH9,Czech Republic,Humanitarian
+CZH10,Czech Republic,Humanitarian
+CZH11,Czech Republic,Humanitarian
+CZH12,Czech Republic,Humanitarian
+CZH13,Czech Republic,Humanitarian
+CZH14,Czech Republic,Humanitarian
+CZH15,Czech Republic,Humanitarian
+CZH16,Czech Republic,Humanitarian
+CZH17,Czech Republic,Humanitarian
+CZH18,Czech Republic,Humanitarian
+DKH1,Denmark,Humanitarian
+DKH2,Denmark,Humanitarian
+DKH3,Denmark,Humanitarian
+DKH4,Denmark,Humanitarian
+DKH5,Denmark,Humanitarian
+DKH6,Denmark,Humanitarian
+DKH7,Denmark,Humanitarian
+DKH8,Denmark,Humanitarian
+DKH9,Denmark,Humanitarian
+DKH10,Denmark,Humanitarian
+DKH11,Denmark,Humanitarian
+DKM1,Denmark,Military
+DKM2,Denmark,Military
+DKM3,Denmark,Military
+DKM4,Denmark,Military
+DKM5,Denmark,Military
+DKM6,Denmark,Military
+DKM7,Denmark,Military
+DKM7,Denmark,Military
+DMK7,Denmark,Military
+DKM7,Denmark,Military
+DKM7,Denmark,Military
+DKM7,Denmark,Military
+DKM8,Denmark,Military
+DKM9,Denmark,Military
+DKM10,Denmark,Military
+DKM11,Denmark,Military
+DKM12,Denmark,Military
+DKF1,Denmark,Financial
+DKF2,Denmark,Financial
+DKF3,Denmark,Financial
+EEM1,Estonia,Military
+EEM2,Estonia,Military
+EEM3,Estonia,Military
+EEM4,Estonia,Military
+EEM5,Estonia,Military
+EEM6,Estonia,Military
+EEM7,Estonia,Military
+EEM8,Estonia,Military
+EEM9,Estonia,Military
+EEM10,Estonia,Military
+EEM11,Estonia,Military
+EEM12,Estonia,Military
+EEM13,Estonia,Military
+EEM14,Estonia,Military
+EEH1,Estonia,Humanitarian
+EEH2,Estonia,Humanitarian
+EEH2,Estonia,Humanitarian
+EEH2,Estonia,Humanitarian
+EEH2,Estonia,Humanitarian
+EEH2,Estonia,Humanitarian
+EEH3,Estonia,Humanitarian
+EEH4,Estonia,Humanitarian
+EEF1,Estonia,Financial
+FIH1,Finland,Humanitarian
+FIH2,Finland,Humanitarian
+FIH3,Finland,Humanitarian
+FIH4,Finland,Humanitarian
+FIH5,Finland,Humanitarian
+FIH6,Finland,Humanitarian
+FIH7,Finland,Humanitarian
+FIM1,Finland,Military
+FIM2,Finland,Military
+FIM3,Finland,Military
+FIM4,Finland,Military
+FIM6,Finland,Military
+FIM7,Finland,Military
+FIM8,Finland,Military
+FIM9,Finland,Military
+FIM10,Finland,Military
+FIM11,Finland,Military
+FIM12,Finland,Military
+FIM13,Finland,Military
+FIM14,Finland,Military
+FIF1,Finland,Financial
+FIF2,Finland,Financial
+FIF3,Finland,Financial
+FIF4,Finland,Financial
+FIF5,Finland,Financial
+FIF6,Finland,Financial
+FRH1,France,Humanitarian
+FRH2,France,Humanitarian
+FRH3,France,Humanitarian
+FRH4,France,Humanitarian
+FRH5,France,Humanitarian
+FRH6,France,Humanitarian
+FRH7,France,Humanitarian
+FRH8,France,Humanitarian
+FRH9,France,Humanitarian
+FRH10,France,Humanitarian
+FRH11,France,Humanitarian
+FRH12,France,Humanitarian
+FRH13,France,Humanitarian
+FRH14,France,Humanitarian
+FRH15,France,Humanitarian
+FRH15,France,Humanitarian
+FRH16,France,Humanitarian
+FRH17,France,Humanitarian
+FRH18,France,Humanitarian
+FRH19,France,Humanitarian
+FRF1,France,Financial
+FRF2,France,Financial
+FRF3,France,Financial
+FRF4,France,Financial
+FRF6,France,Financial
+FRM1,France,Military
+FRM2,France,Military
+FRM3,France,Military
+FRM3,France,Military
+FRM4,France,Military
+FRM5,France,Military
+FRM6,France,Military
+FRM7,France,Military
+FRM8,France,Military
+FRM9,France,Military
+FRM10,France,Military
+FRM11,France,Military
+DEH1,Germany,Humanitarian
+DEH2,Germany,Humanitarian
+DEH3,Germany,Humanitarian
+DEH4,Germany,Humanitarian
+DEH4,Germany,Humanitarian
+DEH5,Germany,Humanitarian
+DEH6,Germany,Humanitarian
+DEH7,Germany,Humanitarian
+DEH8,Germany,Humanitarian
+DEH9,Germany,Humanitarian
+DEH10,Germany,Humanitarian
+DEH11,Germany,Humanitarian
+DEH12,Germany,Humanitarian
+DEH13,Germany,Humanitarian
+DEH14,Germany,Humanitarian
+DEH15,Germany,Humanitarian
+DEH16,Germany,Humanitarian
+DEH17,Germany,Humanitarian
+DEH18,Germany,Humanitarian
+DEH19,Germany,Humanitarian
+DEH20,Germany,Humanitarian
+DEH21,Germany,Humanitarian
+DEH22,Germany,Humanitarian
+DEH23,Germany,Humanitarian
+DEH24,Germany,Humanitarian
+DEH25,Germany,Humanitarian
+DEH26,Germany,Humanitarian
+DEH27,Germany,Humanitarian
+DEH28,Germany,Humanitarian
+DEH29,Germany,Humanitarian
+DEM1,Germany,Military
+DEM1,Germany,Military
+DEM1,Germany,Military
+DEM1,Germany,Military
+DEM1,Germany,Military
+DEM1,Germany,Military
+DEM2,Germany,Military
+DEM2,Germany,Military
+DEM3,Germany,Military
+DEM6,Germany,Military
+DEM7,Germany,Military
+DEM8,Germany,Military
+DEM9,Germany,Military
+DEM10,Germany,Military
+DEF1,Germany,Financial
+DEF2,Germany,Financial
+DEF3,Germany,Financial
+ELH1,Greece,Humanitarian
+ELH2,Greece,Humanitarian
+ELH3,Greece,Humanitarian
+ELH4,Greece,Humanitarian
+ELM1,Greece,Military
+ELM2,Greece,Military
+ELM3,Greece,Military
+ELM4,Greece,Military
+ELM5,Greece,Military
+ELM6,Greece,Financial
+HUH1,Hungary,Humanitarian
+HUH2,Hungary,Humanitarian
+HUH3,Hungary,Humanitarian
+HUH4,Hungary,Humanitarian
+HUH5,Hungary,Humanitarian
+HUH6,Hungary,Humanitarian
+HUH7,Hungary,Humanitarian
+HUH8,Hungary,Humanitarian
+HUH9,Hungary,Humanitarian
+HUH10,Hungary,Humanitarian
+HUH11,Hungary,Humanitarian
+INH1,India,Humanitarian
+INH2,India,Humanitarian
+INH3,India,Humanitarian
+INH4,India,Humanitarian
+IEH1,Ireland,Humanitarian
+IEH2,Ireland,Humanitarian
+IEH3,Ireland,Humanitarian
+IEH4,Ireland,Humanitarian
+IEH5,Ireland,Humanitarian
+IEH6,Ireland,Humanitarian
+IEH8,Ireland,Humanitarian
+IEH9,Ireland,Humanitarian
+IEH10,Ireland,Humanitarian
+IEH10,Ireland,Humanitarian
+IEH10,Ireland,Humanitarian
+IEH11,Ireland,Humanitarian
+IEH12,Ireland,Humanitarian
+IEM1,Ireland,Military
+IEF1,Ireland,Financial
+IEF2,Ireland,Financial
+ISH1,Iceland,Humanitarian
+ISH2,Iceland,Humanitarian
+ISH3,Iceland,Humanitarian
+ISH4,Iceland,Humanitarian
+ISH5,Iceland,Humanitarian
+ISH6,Iceland,Humanitarian
+ISH7,Iceland,Humanitarian
+ISH8,Iceland,Humanitarian
+ISM1,Iceland,Military
+ISM2,Iceland,Military
+ISM3,Iceland,Military
+ISM4,Iceland,Military
+ISM5,Iceland,Military
+ISM6,Iceland,Military
+ISM7,Iceland,Military
+ISM8,Iceland,Military
+ISM9,Iceland,Military
+ISF1,Iceland,Financial
+ISF2,Iceland,Financial
+ISF3,Iceland,Financial
+ISF4,Iceland,Financial
+ITH1,Italy,Humanitarian
+ITH2,Italy,Humanitarian
+ITH3,Italy,Humanitarian
+ITH4,Italy,Humanitarian
+ITH5,Italy,Humanitarian
+ITH6,Italy,Humanitarian
+ITH7,Italy,Humanitarian
+ITH8,Italy,Humanitarian
+ITH9,Italy,Humanitarian
+ITM1,Italy,Military
+ITM2,Italy,Military
+ITM3,Italy,Military
+ITM4,Italy,Military
+ITM5,Italy,Military
+ITM6,Italy,Military
+ITM7,Italy,Military
+ITM8,Italy,Military
+ITM9,Italy,Military
+ITM10,Italy,Military
+ITM11,Italy,Military
+ITF1,Italy,Financial
+ITF2,Italy,Financial
+ITF3,Italy,Financial
+JPH1,Japan,Humanitarian
+JPH2,Japan,Humanitarian
+JPH3,Japan,Humanitarian
+JPH4,Japan,Humanitarian
+JPH5,Japan,Humanitarian
+JPH6,Japan,Humanitarian
+JPH7,Japan,Humanitarian
+JPH8,Japan,Humanitarian
+JPH9,Japan,Humanitarian
+JPH10,Japan,Humanitarian
+JPH11,Japan,Humanitarian
+JPH12,Japan,Humanitarian
+JPM1,Japan,Military
+JPM2,Japan,Military
+JPM3,Japan,Military
+JPM4,Japan,Military
+JPF1,Japan,Financial
+JPF2,Japan,Financial
+JPF3,Japan,Financial
+JPF4,Japan,Financial
+JPF5,Japan,Financial
+JPF6,Japan,Financial
+LVH1,Latvia,Humanitarian
+LVH2,Latvia,Humanitarian
+LVH3,Latvia,Humanitarian
+LVH4,Latvia,Humanitarian
+LVH5,Latvia,Humanitarian
+LVH6,Latvia,Humanitarian
+LVH7,Latvia,Humanitarian
+LVH8,Latvia,Humanitarian
+LVH9,Latvia,Humanitarian
+LVH10,Latvia,Humanitarian
+LVH11,Latvia,Humanitarian
+LVM1,Latvia,Military
+LVM2,Latvia,Military
+LVM3,Latvia,Military
+LVM4,Latvia,Military
+LVM5,Latvia,Military
+LVM6,Latvia,Military
+LVF1,Latvia,Financial
+LVF2,Latvia,Financial
+LVF3,Latvia,Financial
+LVF4,Latvia,Financial
+LTM1,Lithuania,Military
+LTM2,Lithuania,Military
+LTM3,Lithuania,Military
+LTM4,Lithuania,Military
+LTM5,Lithuania,Military
+LTM6,Lithuania,Military
+LTM7,Lithuania,Military
+LTM8,Lithuania,Military
+LTM9,Lithuania,Military
+LTM10,Lithuania,Military
+LTM11,Lithuania,Military
+LTM12,Lithuania,Military
+LTM13,Lithuania,Military
+LTM14,Lithuania,Military
+LTM15,Lithuania,Military
+LTM16,Lithuania,Military
+LTM17,Lithuania,Military
+LTM18,Lithuania,Military
+LTM19,Lithuania,Military
+LTM20,Lithuania,Military
+LTM21,Lithuania,Military
+LTH1,Lithuania,Humanitarian
+LTH2,Lithuania,Humanitarian
+LTH3,Lithuania,Humanitarian
+LTH4,Lithuania,Humanitarian
+LTH5,Lithuania,Humanitarian
+LTH6,Lithuania,Humanitarian
+LTH7,Lithuania,Humanitarian
+LTH8,Lithuania,Humanitarian
+LTF1,Lithuania,Financial
+LTF2,Lithuania,Financial
+LTF3,Lithuania,Financial
+LTF4,Lithuania,Financial
+LTF5,Lithuania,Financial
+LUM1,Luxembourg,Military
+LUM2,Luxembourg,Military
+LUM3,Luxembourg,Military
+LUM4,Luxembourg,Military
+LUM5,Luxembourg,Military
+LUM6,Luxembourg,Military
+LUM7,Luxembourg,Military
+LUH1,Luxembourg,Humanitarian
+LUH2,Luxembourg,Humanitarian
+LUH3,Luxembourg,Humanitarian
+LUH4,Luxembourg,Humanitarian
+LUH5,Luxembourg,Humanitarian
+LUF1,Luxembourg,Financial
+MTH1,Malta,Humanitarian
+MTH2,Malta,Humanitarian
+MTH3,Malta,Humanitarian
+NLM1,Netherlands,Military
+NLM1,Netherlands,Military
+NLM1,Netherlands,Military
+NLM1,Netherlands,Military
+NLM1,Netherlands,Military
+NLM2,Netherlands,Military
+NLM3,Netherlands,Military
+NLM4,Netherlands,Military
+NLM5,Netherlands,Military
+NLM6,Netherlands,Military
+NLM7,Netherlands,Military
+NLM8,Netherlands,Military
+NLM9,Netherlands,Military
+NLM10,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLM11,Netherlands,Military
+NLH1,Netherlands,Humanitarian
+NLH2,Netherlands,Humanitarian
+NLH3,Netherlands,Humanitarian
+NLH4,Netherlands,Humanitarian
+NLH5,Netherlands,Humanitarian
+NLH6,Netherlands,Humanitarian
+NLH7,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH8,Netherlands,Humanitarian
+NLH9,Netherlands,Humanitarian
+NLH10,Netherlands,Humanitarian
+NLH11,Netherlands,Humanitarian
+NLF1,Netherlands,Financial
+NLF2,Netherlands,Financial
+NLF3,Netherlands,Financial
+NLF4,Netherlands,Financial
+NLF5,Netherlands,Financial
+NLF5,Netherlands,Financial
+NZM1,New Zealand,Military
+NZM2,New Zealand,Military
+NZM4,New Zealand,Military
+NZM5,New Zealand,Military
+NZM6,New Zealand,Military
+NZM7,New Zealand,Military
+NZM8,New Zealand,Military
+NZM9,New Zealand,Military
+NZM10,New Zealand,Military
+NZH1,New Zealand,Humanitarian
+NZH2,New Zealand,Humanitarian
+NZH3,New Zealand,Humanitarian
+NZH4,New Zealand,Humanitarian
+NZH5,New Zealand,Humanitarian
+NZH6,New Zealand,Humanitarian
+NZH7,New Zealand,Humanitarian
+NZH8,New Zealand,Humanitarian
+NZH9,New Zealand,Humanitarian
+NOM1,Norway,Military
+NOM1,Norway,Military
+NOM2,Norway,Military
+NOM3,Norway,Military
+NOM3,Norway,Military
+NOM3,Norway,Military
+NOM3,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM4,Norway,Military
+NOM5,Norway,Military
+NOH1,Norway,Humanitarian
+NOH2,Norway,Humanitarian
+NOH3,Norway,Humanitarian
+NOH4,Norway,Humanitarian
+NOH5,Norway,Humanitarian
+NOH6,Norway,Humanitarian
+NOH7,Norway,Humanitarian
+NOH8,Norway,Humanitarian
+NOH9,Norway,Humanitarian
+NOF1,Norway,Financial
+NOF2,Norway,Financial
+NOF3,Norway,Financial
+NOF4,Norway,Financial
+NOF5,Norway,Financial
+NOF6,Norway,Financial
+NOF7,Norway,Financial
+NOF8,Norway,Financial
+NOF9,Norway,Financial
+PLH1,Poland,Humanitarian
+PLH2,Poland,Humanitarian
+PLH3,Poland,Humanitarian
+PLH4,Poland,Humanitarian
+PLH5,Poland,Humanitarian
+PLH6,Poland,Humanitarian
+PLH7,Poland,Humanitarian
+PLM1,Poland,Military
+PLM2,Poland,Military
+PLM2,Poland,Military
+PLM3,Poland,Military
+PLM4,Poland,Military
+PLM5,Poland,Military
+PLM6,Poland,Military
+PLM7,Poland,Military
+PLM8,Poland,Military
+PLF1,Poland,Financial
+PLF2,Poland,Financial
+PLF3,Poland,Financial
+PTH1,Portugal,Humanitarian
+PTH2,Portugal,Humanitarian
+PTH3,Portugal,Humanitarian
+PTH4,Portugal,Humanitarian
+PTM1,Portugal,Military
+PTM1,Portugal,Military
+PTM1,Portugal,Military
+PTM2,Portugal,Military
+PTM3,Portugal,Military
+PTM4,Portugal,Military
+PTM4,Portugal,Military
+PTM5,Portugal,Military
+PTM6,Portugal,Military
+PTM7,Portugal,Military
+PTM8,Portugal,Military
+PTM9,Portugal,Military
+PTM10,Portugal,Military
+PTM11,Portugal,Military
+PTM12,Portugal,Military
+PTM13,Portugal,Military
+PTF1,Portugal,Financial
+KOH1,South Korea,Humanitarian
+KOH2,South Korea,Humanitarian
+KOH3,South Korea,Humanitarian
+KOH4,South Korea,Humanitarian
+KOH5,South Korea,Humanitarian
+KOH6,South Korea,Humanitarian
+KOH7,South Korea,Humanitarian
+KOH7,South Korea,Humanitarian
+KOM1,South Korea,Military
+KOM2,South Korea,Military
+KOM3,South Korea,Military
+KOF1,South Korea,Financial
+KOF2,South Korea,Financial
+ROH1,Romania,Humanitarian
+ROH2,Romania,Humanitarian
+ROH3,Romania,Humanitarian
+ROH4,Romania,Humanitarian
+ROH5,Romania,Humanitarian
+ROH6,Romania,Humanitarian
+ROH7,Romania,Humanitarian
+ROM1,Romania,Military
+ROM2,Romania,Military
+ROM3,Romania,Military
+ROM4,Romania,Military
+SKH1,Slovakia,Humanitarian
+SKH2,Slovakia,Humanitarian
+SKH3,Slovakia,Humanitarian
+SKM1,Slovakia,Military
+SKM2,Slovakia,Military
+SKM3,Slovakia,Military
+SKM4,Slovakia,Military
+SKM5,Slovakia,Military
+SKM6,Slovakia,Military
+SKM7,Slovakia,Military
+SKM8,Slovakia,Military
+SKM9,Slovakia,Military
+SKM10,Slovakia,Military
+SKM11,Slovakia,Military
+SKM12,Slovakia,Military
+SKM13,Slovakia,Military
+SKM14,Slovakia,Military
+SKF1,Slovakia,Financial
+SIH1,Slovenia,Humanitarian
+SIH2,Slovenia,Humanitarian
+SIH3,Slovenia,Humanitarian
+SIH4,Slovenia,Humanitarian
+SIH5,Slovenia,Humanitarian
+SIH6,Slovenia,Humanitarian
+SIH7,Slovenia,Humanitarian
+SIH8,Slovenia,Humanitarian
+SIH9,Slovenia,Humanitarian
+SIH10,Slovenia,Humanitarian
+SIH11,Slovenia,Humanitarian
+SIH12,Slovenia,Humanitarian
+SIM1,Slovenia,Military
+SIM2,Slovenia,Military
+SIM3,Slovenia,Military
+SIM4,Slovenia,Military
+SIM5,Slovenia,Military
+SIM6,Slovenia,Military
+ESH1,Spain,Humanitarian
+ESH2,Spain,Humanitarian
+ESH3,Spain,Humanitarian
+ESH4,Spain,Humanitarian
+ESH5,Spain,Humanitarian
+ESH6,Spain,Humanitarian
+ESM1,Spain,Military
+ESM2,Spain,Military
+ESM3,Spain,Military
+ESM4,Spain,Military
+ESM5,Spain,Military
+ESM6,Spain,Military
+ESM7,Spain,Military
+ESM8,Spain,Military
+ESM9,Spain,Military
+ESM9,Spain,Military
+ESM10,Spain,Military
+ESM11,Spain,Military
+ESM12,Spain,Military
+ESM13,Spain,Military
+ESM14,Spain,Military
+ESM15,Spain,Military
+ESM16,Spain,Military
+ESF1,Spain,Financial
+ESF2,Spain,Financial
+ESF3,Spain,Financial
+ESF4,Spain,Financial
+ESF5,Spain,Financial
+ESF6,Spain,Financial
+ESF7,Spain,Financial
+SEH1,Sweden,Humanitarian
+SEH2,Sweden,Humanitarian
+SEH3,Sweden,Humanitarian
+SEH4,Sweden,Humanitarian
+SEH5,Sweden,Humanitarian
+SEH6,Sweden,Humanitarian
+SEH7,Sweden,Humanitarian
+SEH8,Sweden,Humanitarian
+SEH9,Sweden,Humanitarian
+SEH10,Sweden,Humanitarian
+SEH11,Sweden,Humanitarian
+SEH12,Sweden,Humanitarian
+SEH13,Sweden,Humanitarian
+SEH14,Sweden,Humanitarian
+SEM1,Sweden,Military
+SEM2,Sweden,Military
+SEM4,Sweden,Military
+SEM5,Sweden,Military
+SEM6,Sweden,Military
+SEM7,Sweden,Military
+SEM8,Sweden,Military
+SEM9,Sweden,Military
+SEM10,Sweden,Military
+SEM11,Sweden,Military
+SEM12,Sweden,Military
+SEM13,Sweden,Military
+SEM14,Sweden,Military
+SEF1,Sweden,Financial
+SEF2,Sweden,Financial
+SEF3,Sweden,Financial
+SEF4,Sweden,Financial
+SEF5,Sweden,Financial
+SEF6,Sweden,Humanitarian
+CHH1,Switzerland,Humanitarian
+CHH2,Switzerland,Humanitarian
+CHH3,Switzerland,Humanitarian
+CHH4,Switzerland,Humanitarian
+CHH5,Switzerland,Humanitarian
+CHH6,Switzerland,Humanitarian
+CHH6,Switzerland,Humanitarian
+CHH6,Switzerland,Humanitarian
+CHH6,Switzerland,Humanitarian
+CHH7,Switzerland,Humanitarian
+CHH8,Switzerland,Humanitarian
+CHF1,Switzerland,Financial
+CHF2,Switzerland,Financial
+TRM1,Turkey,Military
+TRM2,Turkey,Military
+TRH1,Turkey,Humanitarian
+TRH2,Turkey,Humanitarian
+TRH3,Turkey,Humanitarian
+TRH4,Turkey,Humanitarian
+TWH1,Taiwan,Humanitarian
+TWH2,Taiwan,Humanitarian
+TWH3,Taiwan,Humanitarian
+TWH4,Taiwan,Humanitarian
+TWH5,Taiwan,Humanitarian
+TWH6,Taiwan,Humanitarian
+TWH7,Taiwan,Humanitarian
+TWH8,Taiwan,Humanitarian
+TWH8,Taiwan,Humanitarian
+TWH8,Taiwan,Humanitarian
+TWH8,Taiwan,Humanitarian
+TWH8,Taiwan,Humanitarian
+TWH8,Taiwan,Humanitarian
+UKH1,United Kingdom,Humanitarian
+UKH2,United Kingdom,Humanitarian
+UKH3,United Kingdom,Humanitarian
+UKH4,United Kingdom,Humanitarian
+UKH5,United Kingdom,Humanitarian
+UKH6,United Kingdom,Humanitarian
+UKH7,United Kingdom,Humanitarian
+UKH8,United Kingdom,Humanitarian
+UKH9,United Kingdom,Humanitarian
+UKH10,United Kingdom,Humanitarian
+UKH11,United Kingdom,Humanitarian
+UKH12,United Kingdom,Humanitarian
+UKH13,United Kingdom,Humanitarian
+UKH14,United Kingdom,Humanitarian
+UKH15,United Kingdom,Humanitarian
+UKH16,United Kingdom,Humanitarian
+UKH17,United Kingdom,Humanitarian
+UKM1,United Kingdom,Military
+UKM2,United Kingdom,Military
+UKM3,United Kingdom,Military
+UKM4,United Kingdom,Military
+UKM5,United Kingdom,Military
+UKM6,United Kingdom,Military
+UKM7,United Kingdom,Military
+UKM8,United Kingdom,Military
+UKM9,United Kingdom,Military
+UKM10,United Kingdom,Military
+UKM10,United Kingdom,Military
+UKM10,United Kingdom,Military
+UKM10,United Kingdom,Military
+UKM11,United Kingdom,Military
+UKM12,United Kingdom,Military
+UKM13,United Kingdom,Military
+UKM14,United Kingdom,Military
+UKM15,United Kingdom,Military
+UKM16,United Kingdom,Military
+UKM16,United Kingdom,Military
+UKM16,United Kingdom,Military
+UKM16,United Kingdom,Military
+UKM16,United Kingdom,Military
+UKM16,United Kingdom,Military
+UKF1,United Kingdom,Financial
+UKF2,United Kingdom,Financial
+UKF3,United Kingdom,Financial
+UKF4,United Kingdom,Financial
+UKF5,United Kingdom,Financial
+UKF6,United Kingdom,Financial
+UKF7,United Kingdom,Financial
+UKF8,United Kingdom,Financial
+UKF9,United Kingdom,Financial
+UKF10,United Kingdom,Financial
+UKF11,United Kingdom,Financial
+UKF12,United Kingdom,Financial
+UKF13,United Kingdom,Financial
+USH1,United States,Humanitarian
+USH2,United States,Humanitarian
+USH3,United States,Humanitarian
+USH4,United States,Humanitarian
+USH10,United States,Humanitarian
+USH11,United States,Humanitarian
+USH12,United States,Humanitarian
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM1,United States,Military
+USM2,United States,Military
+USM2,United States,Military
+USM2,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM3,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM7,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM8,United States,Military
+USM9,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM10,United States,Military
+USM11,United States,Military
+USF1,United States,Financial
+USF2,United States,Financial
+USF3,United States,Financial
+USF4,United States,Financial
+EUH1,EU (Commission and Council),Humanitarian
+EUH2,EU (Commission and Council),Humanitarian
+EUH3,EU (Commission and Council),Humanitarian
+EUH4,EU (Commission and Council),Humanitarian
+EUH5,EU (Commission and Council),Humanitarian
+EUH6,EU (Commission and Council),Humanitarian
+EUH7,EU (Commission and Council),Humanitarian
+EUH8,EU (Commission and Council),Humanitarian
+EUH9,EU (Commission and Council),Humanitarian
+EUH10,EU (Commission and Council),Humanitarian
+EUH11,EU (Commission and Council),Humanitarian
+EUH12,EU (Commission and Council),Humanitarian
+EUF1,EU (Commission and Council),Financial
+EUF2,EU (Commission and Council),Financial
+EUF3,EU (Commission and Council),Financial
+EUF4,EU (Commission and Council),Financial
+EUF5,EU (Commission and Council),Financial
+EUF9,EU (Commission and Council),Financial
+EUM1,European Peace Facility,Military
+EUM2,European Peace Facility,Military
+EUM3,European Peace Facility,Military
+EUM4,European Peace Facility,Military
+EUM5,European Peace Facility,Military
+EUM6,European Peace Facility,Military
+EUM7,European Peace Facility,Military
+EUM8,European Peace Facility,Military
+EUM9,European Peace Facility,Military
+EIF1,European Investment Bank,Financial
+EIF2,European Investment Bank,Financial
+EIF3,European Investment Bank,Financial
+EIF4,European Investment Bank,Financial
+,,
